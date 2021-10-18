@@ -1,4 +1,7 @@
 # Getting Started.
+
+## For Creating pull request on github desktop 
+
 #### Step 1. Fork the repository
 ![Screenshot (742)](https://user-images.githubusercontent.com/81237390/137702765-dad8c630-7e73-4151-84fa-4ba367c80625.png)
 
@@ -16,5 +19,15 @@ Make the changes you want to (in your forked repository and not the original one
 A commit, or "revision", is an individual change to a file (or set of files). When you make a commit to save your work, Git creates a unique ID (a.k.a. the "SHA" or "hash") that allows you to keep record of the specific changes committed along with who made them and when.
 
 #### Step 3. Creating pull request
+Create a pull request to propose and collaborate on changes to a repository. These changes are proposed in a branch, which ensures that the default branch only contains finished and approved work.
 
+Once you have commited the changes, go to Pull request and click on **New Pull request**
+![Screenshot (748)](https://user-images.githubusercontent.com/81237390/137705273-c6b54047-37c2-440a-94c2-55cd867d88cc.png)
 
+After clicking, you'll be directed to following screen, Here click on **create pull request**.
+![Screenshot (747)](https://user-images.githubusercontent.com/81237390/137705286-8cd7967a-16b6-48fe-b2c2-128a94e4d8b8.png)
+
+You can refer following link for more information on pull requests.
+https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
+
+And your pull request is created. If the maintainer of the repository finds your changes useful they'll merge your pull request!
