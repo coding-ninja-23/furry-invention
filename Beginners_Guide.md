@@ -36,4 +36,5 @@ And your pull request is created. If the maintainer of the repository finds your
 
 
 ## Read in other languages!
+### [Russian](Translations.md/Russian_guide.md)
 

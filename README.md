@@ -15,5 +15,4 @@ If you are not a begginer and genuinely want to help, you can help by guiding th
 We hope that this repository will help you,
 ## Happy Contributing!
 
-### Read In Other Languages 
-### [Russian](Translations.md/Russian_guide.md)
+
