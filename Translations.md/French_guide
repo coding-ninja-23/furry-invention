@@ -1,0 +1,35 @@
+
+# Pour commencer.
+
+## Pour créer une pull request sur le bureau de github
+
+#### Etape 1. Forker le dépôt
+![Screenshot (742)](https://user-images.githubusercontent.com/81237390/137702765-dad8c630-7e73-4151-84fa-4ba367c80625.png)
+
+Cliquez sur **Fork** pour forker le dépôt parent vers votre compte.
+
+Un fork GitHub est une copie d'un dépôt (repo) qui se trouve dans votre compte plutôt que dans le compte à partir duquel vous avez forké les données. Une fois que vous avez forqué un dépôt, vous êtes propriétaire de votre copie. Cela signifie que vous pouvez modifier le contenu de votre dépôt sans affecter le dépôt parent.
+
+
+#### Étape 2. Commiter les changements
+
+Faites les changements que vous voulez (dans votre dépôt forké et non dans le dépôt original !) et cliquez sur **commit changes**.
+
+![Screenshot (744)](https://user-images.githubusercontent.com/81237390/137703934-0f9d59a0-abdd-4e9c-9062-2c147a2bb70d.png)
+
+Un commit, ou "révision", est une modification individuelle d'un fichier (ou d'un ensemble de fichiers). Lorsque vous effectuez un commit pour sauvegarder votre travail, Git crée un identifiant unique (alias le "SHA" ou "hash") qui vous permet de garder une trace des changements spécifiques effectués ainsi que de l'auteur et de la date de ces changements.
+
+#### Étape 3. Création de la pull request
+Créez une pull request pour proposer et collaborer sur des modifications d'un dépôt. Ces modifications sont proposées dans une branche, ce qui garantit que la branche principale ne contient que des travaux terminés et approuvés.
+
+Une fois que vous avez commité les changements, allez dans Pull request et cliquez sur **New Pull request**.
+![Screenshot (748)](https://user-images.githubusercontent.com/81237390/137705273-c6b54047-37c2-440a-94c2-55cd867d88cc.png)
+
+Après avoir cliqué, vous serez dirigé vers l'écran suivant, cliquez ici sur **create pull request**.
+![Screenshot (747)](https://user-images.githubusercontent.com/81237390/137705286-8cd7967a-16b6-48fe-b2c2-128a94e4d8b8.png)
+
+Vous pouvez consulter le lien suivant pour plus d'informations sur les pull requests.
+https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
+
+Et votre pull request est créée. Si le responsable du dépôt trouve vos modifications utiles, il fusionnera votre pull request !
+
